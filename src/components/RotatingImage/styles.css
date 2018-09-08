@@ -1,0 +1,17 @@
+.imageContainer {
+    text-align: center;
+    margin: 10% 0 0 0;
+}
+
+.imageStyles {
+  width: 20%;
+  /* animation: spin 5s linear infinite; */
+}
+
+.imageStyles:hover {
+  animation-play-state: paused;
+}
+
+@keyframes spin {
+  100% { transform: rotate(360deg);}
+}

@@ -1,0 +1,17 @@
+.movingContainer {
+  min-height: 100px;
+  min-width: 100%;
+  // background: blue;
+  // transition: background 1s;
+  // &:hover {
+  //   cursor: pointer;
+  //   background: red;
+  // }
+}
+
+.containerRed {
+  background: red;
+}
+.containerBlue {
+  background: blue;
+}

@@ -1,0 +1,26 @@
+.title {
+  background: linear-gradient(to left, #2C3E50, #FD746C);
+  display: block;
+  text-align: center;
+  color: black;
+  transition: color 1s;
+  &:hover {
+    color: red;
+  }
+}
+
+
+.runningMan {
+  width: 2%;
+  animation: toRight 8s linear infinite;
+}
+
+@keyframes toRight {
+  from {
+  margin-left: 0%;
+  }
+
+  to {
+    margin-left: 100%;
+  }
+}

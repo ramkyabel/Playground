@@ -1,0 +1,11 @@
+.navModule {
+  background-color: black;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+}
+
+.button {
+  color: white;
+  margin: 0 10px;
+}

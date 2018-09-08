@@ -1,0 +1,16 @@
+.aboutModule {
+  margin: auto;
+  align-self: center;
+  overflow: hidden;
+}
+.counterButton {
+  /*align-self: center;*/
+  margin-left: 100px;
+  background: red;
+}
+.titleSpan {
+  /*margin: auto;*/
+  text-align: center;
+  width: 100px;
+  height: 200px;
+}
